@@ -1,0 +1,15 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+@import url(https://fonts.googleapis.com/css?family=Roboto:regular,700);
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+body{
+    background-color: #333;
+    overflow: hidden;
+}
+
