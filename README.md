@@ -1,4 +1,3 @@
-=======
 ## Vue + Vite + Registration Form with Validator 
 
 ## Project setup
