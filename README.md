@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 ## Vue + Vite + Registration Form with Validator 
 
@@ -16,4 +15,3 @@ npm run dev
 ```
 npm run build
 ```
->>>>>>> 64e8087bc64575503a91ba4cecdee5fb759c8793
