@@ -203,7 +203,9 @@ const emailRules = ref([
     cursor: pointer;
     text-align: right;
 }
-
+.column{
+    position: relative;
+}
 .logoList {
     display: flex;
     align-items: center;
@@ -235,5 +237,10 @@ const emailRules = ref([
     box-shadow: 0px 4px 8px rgba(211, 38, 38, 0.25);
     border-radius: 25px;
     color: #fff;
+}
+.vectory{
+    position: absolute;
+    right: 20px;
+    top: 20px;
 }
 </style>
